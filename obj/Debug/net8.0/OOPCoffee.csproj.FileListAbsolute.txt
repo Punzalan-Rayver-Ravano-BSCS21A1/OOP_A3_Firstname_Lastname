@@ -1,0 +1,14 @@
+C:\Users\punza\Desktop\OOPCoffee\bin\Debug\net8.0\OOPCoffee.exe
+C:\Users\punza\Desktop\OOPCoffee\bin\Debug\net8.0\OOPCoffee.deps.json
+C:\Users\punza\Desktop\OOPCoffee\bin\Debug\net8.0\OOPCoffee.runtimeconfig.json
+C:\Users\punza\Desktop\OOPCoffee\bin\Debug\net8.0\OOPCoffee.dll
+C:\Users\punza\Desktop\OOPCoffee\bin\Debug\net8.0\OOPCoffee.pdb
+C:\Users\punza\Desktop\OOPCoffee\obj\Debug\net8.0\OOPCoffee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\punza\Desktop\OOPCoffee\obj\Debug\net8.0\OOPCoffee.AssemblyInfoInputs.cache
+C:\Users\punza\Desktop\OOPCoffee\obj\Debug\net8.0\OOPCoffee.AssemblyInfo.cs
+C:\Users\punza\Desktop\OOPCoffee\obj\Debug\net8.0\OOPCoffee.csproj.CoreCompileInputs.cache
+C:\Users\punza\Desktop\OOPCoffee\obj\Debug\net8.0\OOPCoffee.dll
+C:\Users\punza\Desktop\OOPCoffee\obj\Debug\net8.0\refint\OOPCoffee.dll
+C:\Users\punza\Desktop\OOPCoffee\obj\Debug\net8.0\OOPCoffee.pdb
+C:\Users\punza\Desktop\OOPCoffee\obj\Debug\net8.0\OOPCoffee.genruntimeconfig.cache
+C:\Users\punza\Desktop\OOPCoffee\obj\Debug\net8.0\ref\OOPCoffee.dll
